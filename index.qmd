@@ -28,11 +28,13 @@ vignette: >
 
 </font>
 
+<font size=2>
 <center>**Ph.D. Candidate (Year 1)**</center>
 
 <center>**Department of Psychiatry, Renmin Hospital of Wuhan University, Wuhan 430060, China**</center>
 
 <center>**honggang.lv\@whu.edu.cn**｜[**https://hugolyu.github.io**](https://hugolyu.github.io){.uri}</center>
+</font>
 
 ## [Educations]{style="color: #990000"}
 
@@ -57,32 +59,31 @@ Advisor: Dr. [Hao Yu](https://www.researchgate.net/profile/Hao-Yu-28)**`<p align
 </p>
 
 ## [Skills and Professional Experience]{style="color: #990000"}
+<font size=3>
+-   **Statistical Analysis:** Experience in conducting analyses using R, Python, and Shell.
 
--   **Study design**: Full experience in trial designing and managing clinical trials, including case-control trials, cohorts, and randomized controlled trials (RCTs).
+-   **Mendelian Randomization:** Experienced in applying MR analysis to investigate causal relationships between risk factors and psychiatric disorders.
 
--   **Leadership**: Experience in leading and supervising research teams of about 5-20 members.
+-   **Psychiatrist (2020 - 2023):** Residency Training Program, \[Affiliated Hospital of Jining Medical University, Jining , China\]
 
--   **Data analyses**: Experience in conducting clinical statistical analyses. Also proficient in high-throughput omics analysis, such as microbiome, proteomics, transcriptomics, and lipidomics.
+-   **Doctor' License of China (2022):** Qualified as a medical doctor in China.
 
-## [Professional Experience]{style="color: #990000"}
+-   **Junior Psychotherapist (expected August 2024):** Completing required training to fulfill the qualification for practicing psychotherapy in China.
+</font>
 
-#### - Brain Function and Psychosomatic Medicine Institute of Huizhou Mental Health Center (Second People's Hospital of Huizhou), Huizhou, China
+## [Research Interests]{style="color: #990000"}
+<font size=3>
 
--   **Scientific Consultant** (Part-time (2021-Now)).
--   **Director** (Full-time (2017-2021)).
--   Main research contents:
-    -   **New ECT strategy:** Improved ECT with similar efficacy but reduced side effects: Hybrid-ECT ([*Rong et al., 2019*]((https://doi.org/10.1186/s12888-019-2320-3))), a pioneering approach combining efficacy of standard ECT with reduced cognitive side effects ([*Li et al., 2021*](https://doi.org/10.1016/j.brs.2021.04.017); [*Zhang et al., 2022*](https://doi.org/10.3389/fpsyt.2022.896018)). And further evolved into i-HECT, currently in progress.
-    -   **Schizophrenia and coronary artery calcium (CAC)**: Uncovered increased CAC in schizophrenia patients through COVID-19 chest CT analysis ([*Huang et al., 2021*](https://doi.org/10.1016/j.schres.2021.03.002)). Identified potential risk factors including elevated triglycerides and decreased Triiodothyronine ([*Huang et al., 2023*](https://doi.org/10.1016/j.schres.2023.12.007)).
-    -   **Gut microbiome in mood disorders**: Explored gut microbiota in patients with major depressive or bipolar disorder, highlighting distinctive microbiota patterns and links to the gut microbial tryptophan biosynthesis and metabolism pathway (MiTBamp)([*Rong et al., 2019*](https://doi.org/10.1016/j.jpsychires.2019.03.017); *Lai et al., 2021 [a](https://doi.org/10.1017/s0033291719003027) & [b](https://doi.org/10.1016/j.jad.2020.09.010)*).
-    -   **Additional research endeavors**: Conducted a meta-analysis of MRI network topology in depression patients. ([*Xu et al., 2021*](https://doi.org/10.1016/j.jad.2021.08.120)).
+-   To clarify the genetic perspective on multiple clinical symptoms of common mental illnesses, particularly depression, and their underlying biological mechanisms.
 
-#### - Shenzhen Mental Health Center (Shenzhen Kangning Hospital), Shenzhen, China
+-   To identify potential risk factors and objective biomarkers for the diverse clinical symptoms of depression, using multi-omics data and cutting-edge genetic statistical methods, ultimately with the goal of optimizing diagnosis and treatment.
 
--   **Psychiatrist** (2014 - 2017, residency training program).
+</font>
 
 ## [Publications]{style="color: #990000"}
 
 [(Note: #First author, \*Corresponding author)]{style="color: #666666"}
+<font size=3>
 
 1.  [[**Lv, H. G.#**]{.underline}]{style="color: #990000"}, Li, J.#, Gao, K., Zeng, L., Xue, R., Liu, X., Zhou, C., Yue, W., Yu, H.\* (2022). **Identification of genetic loci that overlap between schizophrenia and metabolic syndrome.** *Psychiatry Research*, *318*, 114947. [DOI](https://doi.org/10.1016/j.psychres.2022.114947) [PMID](https://pubmed.ncbi.nlm.nih.gov/36399892/)
 
@@ -91,5 +92,5 @@ Advisor: Dr. [Hao Yu](https://www.researchgate.net/profile/Hao-Yu-28)**`<p align
 3.  Zeng, L.#, [[**Lv, H. G.#**]{.underline}]{style="color: #990000"}, Li, J., Xue, R., Liu, X., Zhou, C., Yu, H.\* (2022). **Cigarette smoking, coffee consumption, alcohol intake, and clozapine metabolism: A Mendelian randomization study.** *Frontiers in Psychiatry*, *13*, 1002235. [DOI](https://doi.org/10.3389/fpsyt.2022.1002235) [PMID](https://pubmed.ncbi.nlm.nih.gov/36245885/)
 
 4.  Zeng, L.#, [[**Lv, H. G.#**]{.underline}]{style="color: #990000"}, Li, J., Xue, R., Liu, X., Zhou, C., Yu, H.\* (2022). **Causal effects of fatty acids on depression: Mendelian randomization study.** *Frontiers in Nutrition*, *9*, 1010476. [DOI](https://doi.org/10.3389/fnut.2022.1010476) [PMID](https://pubmed.ncbi.nlm.nih.gov/36562041/)
-
+</font>
     </font>
