@@ -66,9 +66,9 @@ Advisor: Dr. [Hao Yu](https://www.researchgate.net/profile/Hao-Yu-28)**`<p align
 
 
 
--   **Statistical Analysis:** Experience in conducting analyses using R, Python, and Shell.
-
 -   **Mendelian Randomization:** Experienced in applying MR analysis to investigate causal relationships between risk factors and psychiatric disorders.
+
+-   **Statistical Analysis:** Experience in conducting analyses using R, Python, and Shell.
 
 -   **Psychiatrist (2020 - 2023):** Residency Training Program, \[Affiliated Hospital of Jining Medical University, Jining , China\]
 
@@ -90,10 +90,26 @@ Advisor: Dr. [Hao Yu](https://www.researchgate.net/profile/Hao-Yu-28)**`<p align
 
 [(Note: #First author, \*Corresponding author)]{style="color: #666666"} <font size=3>
 
-1.  [[**Lv, H. G.#**]{.underline}]{style="color: #990000"}, Li, J.#, Gao, K., Zeng, L., Xue, R., Liu, X., Zhou, C., Yue, W., Yu, H.\* (2022). **Identification of genetic loci that overlap between schizophrenia and metabolic syndrome.** *Psychiatry Research*, *318*, 114947. [DOI](https://doi.org/10.1016/j.psychres.2022.114947) [PMID](https://pubmed.ncbi.nlm.nih.gov/36399892/)
+1.  [[**Lv, H. G.#**]{.underline}]{style="color: #990000"}, Li, J.#, Gao, K., Zeng, L., Xue, R., Liu, X., Zhou, C., Yue, W., Yu, H.\* (2022). **Identification of genetic loci that overlap between schizophrenia and metabolic syndrome.** *Psychiatry Research*, *318*, 114947. [DOI](https://doi.org/10.1016/j.psychres.2022.114947)
+        
+        
+        
+         [PMID](https://pubmed.ncbi.nlm.nih.gov/36399892/)
 
-2.  Chen, G.#, [[**Lv, H. G.#**]{.underline}]{style="color: #990000"}, Zhang, X., Gao, Y., Liu, X., Gu, C., Xue, R., Wang, Q., Chen, M., Zhai, J., Yue, W., Yu, H.\* (2022). **Assessment of the relationships between genetic determinants of thyroid functions and bipolar disorder: A mendelian randomization study.**. *Journal of Affective Disorders*, *298*, 373--380. [DOI](https://doi.org/10.1016/j.jad.2021.10.101) [PMID](https://pubmed.ncbi.nlm.nih.gov/34728293/)
+2.  Chen, G.#, [[**Lv, H. G.#**]{.underline}]{style="color: #990000"}, Zhang, X., Gao, Y., Liu, X., Gu, C., Xue, R., Wang, Q., Chen, M., Zhai, J., Yue, W., Yu, H.\* (2022). **Assessment of the relationships between genetic determinants of thyroid functions and bipolar disorder: A mendelian randomization study.**. *Journal of Affective Disorders*, *298*, 373--380. [DOI](https://doi.org/10.1016/j.jad.2021.10.101)
+        
+        
+        
+         [PMID](https://pubmed.ncbi.nlm.nih.gov/34728293/)
 
-3.  Zeng, L.#, [[**Lv, H. G.#**]{.underline}]{style="color: #990000"}, Li, J., Xue, R., Liu, X., Zhou, C., Yu, H.\* (2022). **Cigarette smoking, coffee consumption, alcohol intake, and clozapine metabolism: A Mendelian randomization study.** *Frontiers in Psychiatry*, *13*, 1002235. [DOI](https://doi.org/10.3389/fpsyt.2022.1002235) [PMID](https://pubmed.ncbi.nlm.nih.gov/36245885/)
+3.  Zeng, L.#, [[**Lv, H. G.#**]{.underline}]{style="color: #990000"}, Li, J., Xue, R., Liu, X., Zhou, C., Yu, H.\* (2022). **Cigarette smoking, coffee consumption, alcohol intake, and clozapine metabolism: A Mendelian randomization study.** *Frontiers in Psychiatry*, *13*, 1002235. [DOI](https://doi.org/10.3389/fpsyt.2022.1002235)
+        
+        
+        
+         [PMID](https://pubmed.ncbi.nlm.nih.gov/36245885/)
 
-4.  Zeng, L.#, [[**Lv, H. G.#**]{.underline}]{style="color: #990000"}, Li, J., Xue, R., Liu, X., Zhou, C., Yu, H.\* (2022). **Causal effects of fatty acids on depression: Mendelian randomization study.** *Frontiers in Nutrition*, *9*, 1010476. [DOI](https://doi.org/10.3389/fnut.2022.1010476) [PMID](https://pubmed.ncbi.nlm.nih.gov/36562041/) </font> </font>
+4.  Zeng, L.#, [[**Lv, H. G.#**]{.underline}]{style="color: #990000"}, Li, J., Xue, R., Liu, X., Zhou, C., Yu, H.\* (2022). **Causal effects of fatty acids on depression: Mendelian randomization study.** *Frontiers in Nutrition*, *9*, 1010476. [DOI](https://doi.org/10.3389/fnut.2022.1010476)
+        
+        
+        
+         [PMID](https://pubmed.ncbi.nlm.nih.gov/36562041/) </font> </font>
