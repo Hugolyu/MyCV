@@ -20,11 +20,19 @@ vignette: >
 
 <font face="Times New Roman">
 
-# [Honggang Lyu (呂洪港)]{style="color: navy"}
+<br/>
 
-<center> Ph.D. Candidate (Year 1) \| Department of Psychiatry, Renmin Hospital of Wuhan University, Wuhan 430060,China ｜</center>
+<font size=6>
 
-<center>honggang.lv\@whu.edu.cn｜<https://hugolyu.github.io></center>
+<center>[Honggang Lyu (呂洪港)]{style="color: navy"}</center>
+
+</font>
+
+<center>**Ph.D. Candidate (Year 1)**</center>
+
+<center>**Department of Psychiatry, Renmin Hospital of Wuhan University, Wuhan 430060, China**</center>
+
+<center>**honggang.lv\@whu.edu.cn**｜[**https://hugolyu.github.io**](https://hugolyu.github.io){.uri}</center>
 
 ## [Educations]{style="color: #990000"}
 
@@ -38,21 +46,13 @@ Advisor: Dr. [Zhongchun Liu](https://www.researchgate.net/profile/Zhongchun-Liu-
 #### **M.S., Psychiatry and Mental Health**
 
 **Department of Psychology, Affiliated Hospital of Jining Medical University, Jining 272002, P.R.China\
-Advisor: Dr. [Hao Yu](https://www.researchgate.net/profile/Hao-Yu-28)**
-
-<p align="right">
-
-*06/2023 -- 09/2020*
+Advisor: Dr. [Hao Yu](https://www.researchgate.net/profile/Hao-Yu-28)**`<p align="right"`{=html} `>`{=html}*06/2023 -- 09/2020*
 
 </p>
 
 #### **M.B. Clinical Medicine**
 
-**First School of Clinical Medicine，Binzhou Medical University, Yantai 264003, P.R.China**
-
-<p align="right">
-
-*06/2020 -- 09/2015*
+**First School of Clinical Medicine，Binzhou Medical University, Yantai 264003, P.R.China**`<p align="right"`{=html} `>`{=html} *06/2020 -- 09/2015*
 
 </p>
 
