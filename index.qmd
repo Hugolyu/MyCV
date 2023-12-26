@@ -65,6 +65,7 @@ Advisor: Dr. [Hao Yu](https://www.researchgate.net/profile/Hao-Yu-28)**`<p align
 <font size=3>
 
 
+
 -   **Statistical Analysis:** Experience in conducting analyses using R, Python, and Shell.
 
 -   **Mendelian Randomization:** Experienced in applying MR analysis to investigate causal relationships between risk factors and psychiatric disorders.
