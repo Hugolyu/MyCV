@@ -29,11 +29,13 @@ vignette: >
 </font>
 
 <font size=2>
+
 <center>**Ph.D. Candidate (Year 1)**</center>
 
 <center>**Department of Psychiatry, Renmin Hospital of Wuhan University, Wuhan 430060, China**</center>
 
 <center>**honggang.lv\@whu.edu.cn**｜[**https://hugolyu.github.io**](https://hugolyu.github.io){.uri}</center>
+
 </font>
 
 ## [Educations]{style="color: #990000"}
@@ -59,7 +61,9 @@ Advisor: Dr. [Hao Yu](https://www.researchgate.net/profile/Hao-Yu-28)**`<p align
 </p>
 
 ## [Skills and Professional Experience]{style="color: #990000"}
+
 <font size=3>
+
 -   **Statistical Analysis:** Experience in conducting analyses using R, Python, and Shell.
 
 -   **Mendelian Randomization:** Experienced in applying MR analysis to investigate causal relationships between risk factors and psychiatric disorders.
@@ -68,10 +72,10 @@ Advisor: Dr. [Hao Yu](https://www.researchgate.net/profile/Hao-Yu-28)**`<p align
 
 -   **Doctor' License of China (2022):** Qualified as a medical doctor in China.
 
--   **Junior Psychotherapist (expected August 2024):** Completing required training to fulfill the qualification for practicing psychotherapy in China.
-</font>
+-   **Junior Psychotherapist (expected August 2024):** Completing required training to fulfill the qualification for practicing psychotherapy in China. </font>
 
 ## [Research Interests]{style="color: #990000"}
+
 <font size=3>
 
 -   To clarify the genetic perspective on multiple clinical symptoms of common mental illnesses, particularly depression, and their underlying biological mechanisms.
@@ -82,8 +86,7 @@ Advisor: Dr. [Hao Yu](https://www.researchgate.net/profile/Hao-Yu-28)**`<p align
 
 ## [Publications]{style="color: #990000"}
 
-[(Note: #First author, \*Corresponding author)]{style="color: #666666"}
-<font size=3>
+[(Note: #First author, \*Corresponding author)]{style="color: #666666"} <font size=3>
 
 1.  [[**Lv, H. G.#**]{.underline}]{style="color: #990000"}, Li, J.#, Gao, K., Zeng, L., Xue, R., Liu, X., Zhou, C., Yue, W., Yu, H.\* (2022). **Identification of genetic loci that overlap between schizophrenia and metabolic syndrome.** *Psychiatry Research*, *318*, 114947. [DOI](https://doi.org/10.1016/j.psychres.2022.114947) [PMID](https://pubmed.ncbi.nlm.nih.gov/36399892/)
 
@@ -91,6 +94,4 @@ Advisor: Dr. [Hao Yu](https://www.researchgate.net/profile/Hao-Yu-28)**`<p align
 
 3.  Zeng, L.#, [[**Lv, H. G.#**]{.underline}]{style="color: #990000"}, Li, J., Xue, R., Liu, X., Zhou, C., Yu, H.\* (2022). **Cigarette smoking, coffee consumption, alcohol intake, and clozapine metabolism: A Mendelian randomization study.** *Frontiers in Psychiatry*, *13*, 1002235. [DOI](https://doi.org/10.3389/fpsyt.2022.1002235) [PMID](https://pubmed.ncbi.nlm.nih.gov/36245885/)
 
-4.  Zeng, L.#, [[**Lv, H. G.#**]{.underline}]{style="color: #990000"}, Li, J., Xue, R., Liu, X., Zhou, C., Yu, H.\* (2022). **Causal effects of fatty acids on depression: Mendelian randomization study.** *Frontiers in Nutrition*, *9*, 1010476. [DOI](https://doi.org/10.3389/fnut.2022.1010476) [PMID](https://pubmed.ncbi.nlm.nih.gov/36562041/)
-</font>
-    </font>
+4.  Zeng, L.#, [[**Lv, H. G.#**]{.underline}]{style="color: #990000"}, Li, J., Xue, R., Liu, X., Zhou, C., Yu, H.\* (2022). **Causal effects of fatty acids on depression: Mendelian randomization study.** *Frontiers in Nutrition*, *9*, 1010476. [DOI](https://doi.org/10.3389/fnut.2022.1010476) [PMID](https://pubmed.ncbi.nlm.nih.gov/36562041/) </font> </font>
