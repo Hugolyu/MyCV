@@ -62,8 +62,8 @@ Advisor: Dr. [Hao Yu](https://www.researchgate.net/profile/Hao-Yu-28)**`<p align
 
 ## [Skills and Professional Experience]{style="color: #990000"}
 
-<font size=3>
 
+<font size=3>
 
 
 -   **Mendelian Randomization:** Experienced in applying MR analysis to investigate causal relationships between risk factors and psychiatric disorders.
@@ -94,6 +94,10 @@ Advisor: Dr. [Hao Yu](https://www.researchgate.net/profile/Hao-Yu-28)**`<p align
 [(Note: #First author, \*Corresponding author)]{style="color: #666666"} <font size=3>
 
 1.  [[**Lv, H. G.#**]{.underline}]{style="color: #990000"}, Li, J.#, Gao, K., Zeng, L., Xue, R., Liu, X., Zhou, C., Yue, W., Yu, H.\* (2022). **Identification of genetic loci that overlap between schizophrenia and metabolic syndrome.** *Psychiatry Research*, *318*, 114947. [DOI](https://doi.org/10.1016/j.psychres.2022.114947)
+        
+        
+        
+        
         
         
         
