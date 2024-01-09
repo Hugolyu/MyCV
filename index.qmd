@@ -1,5 +1,5 @@
 ---
-title: Last updated on Jan-6-2023
+title: Last updated on Jan-7-2023
 # author: 吕洪港
 # affiliation : Department of Psychiatry, Renmin Hospital of Wuhan University, Wuhan 430060,China
 # email: honggang.lv@whu.edu.cn
@@ -96,10 +96,7 @@ Advisor: Dr. [Hao Yu](https://www.researchgate.net/profile/Hao-Yu-28)**`<p align
 1.  [[**Lv, H. G.#**]{.underline}]{style="color: #990000"}, Li, J.#, Gao, K., Zeng, L., Xue, R., Liu, X., Zhou, C., Yue, W., Yu, H.\* (2022). **Identification of genetic loci that overlap between schizophrenia and metabolic syndrome.** *Psychiatry Research*, *318*, 114947. [DOI](https://doi.org/10.1016/j.psychres.2022.114947)
         
         
-        
-        
-        
-        
+         
         
        
 
