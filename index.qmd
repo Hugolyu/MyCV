@@ -1,5 +1,5 @@
 ---
-title: Last updated on Feb-7-2023
+title: Last updated on April-4-2025
 # author: 吕洪港
 # affiliation : Department of Psychiatry, Renmin Hospital of Wuhan University, Wuhan 430060,China
 # email: honggang.lv@whu.edu.cn
@@ -30,7 +30,7 @@ vignette: >
 
 <font size=2>
 
-<center>**Ph.D. Candidate (Year 1)**</center>
+<center>**Ph.D. Candidate (Year 2)**</center>
 
 <center>**Department of Psychiatry, Renmin Hospital of Wuhan University, Wuhan 430060, China**</center>
 
@@ -39,11 +39,22 @@ vignette: >
 </font>
 
 ## [Educations]{style="color: #990000"}
+</p>
+
+#### **Visiting student**
+
+**Department of Neurology and Neurosurgery, The Neuro (Montreal Neurological Institute-Hospital),3801 University Street
+Montreal, QC H3A 2B4,Canada.\
+Advisor: Dr. [Lan Xiong](https://www.mcgill.ca/neuro/lan-xiong-md-phd)**
+Dr. [Sirui Zhou](https://szhoulab.github.io/)**
+`<p align="right"`{=html} `>`{=html}*01/2025 -- Now*
+
 
 #### **Ph.D. candidate, Psychiatry and Mental Health**
 
 **Department of Psychiatry, Renmin Hospital of Wuhan University, Wuhan 430060, P.R.China\
 Advisor: Dr. [Zhongchun Liu](https://www.researchgate.net/profile/Zhongchun-Liu-2)** `<p align="right"`{=html} `>`{=html}*09/2023 - Now*
+
 
 </p>
 
